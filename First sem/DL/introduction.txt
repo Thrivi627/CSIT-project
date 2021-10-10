@@ -1,0 +1,1 @@
+Course contains details knowledge about digital circuits and logic related to this
